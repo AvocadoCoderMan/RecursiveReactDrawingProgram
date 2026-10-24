@@ -23,3 +23,4 @@ NewZoomApp
 *.njsproj
 *.sln
 *.sw?
+src/NewZoomApp.tsx
