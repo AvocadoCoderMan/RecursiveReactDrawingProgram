@@ -13,3 +13,5 @@ A React and TypeScript-based recursive drawing application. This project is a de
 * React & TypeScript
 * Vite
 * React-Konva (Canvas API)
+
+![Recursive Polygon Engine Interface](screenshot.png)

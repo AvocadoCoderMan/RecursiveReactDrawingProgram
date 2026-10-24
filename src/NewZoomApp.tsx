@@ -1,3 +1,5 @@
+// proprietary code to visualize the painted designs prettier here 
+
 import React, { useState } from "react";
 import { Stage, Layer, Rect, Text } from "react-konva";
 
